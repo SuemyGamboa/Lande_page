@@ -68,3 +68,12 @@ footer {
 text-align: center;
 
 }
+
+#buscador {
+  width: 400px;
+  padding: 5px;
+ border-radius: 5px;
+  border-color: rgb(214, 9, 237);
+
+
+}
