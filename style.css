@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #a33bae;
+    color: #333;
+  }
+
+  /* Contenedor principal */
+  .container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    
+  }
+
+  /* Título principal */
+  h1 {
+    color: purple;
+    text-align: center;
+  }
+
+  .kulomi {
+    width: 50px;
+  }
+  /* Estilos para las imágenes */
+  .image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-bottom: 20px;
+  }
+
+  .image-gallery img {
+    width: 30%;
+    margin-bottom: 10px;
+    border-radius: 8px;
+  }
+
+  /* Estilos para los botones */
+  .buttons {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+
+  .buttons a {
+    text-decoration: none;
+    padding: 10px 20px;
+    background-color: #79368d;
+    color: white;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+
+.cuadro {
+    padding: 30px;
+    margin: 10px;
+    background-color: #f4f4f4; /* Color de fondo */
+    border: 5px solid purple;
+    
+}
+
+footer {
+    display: block;
+text-align: center;
+
+}
